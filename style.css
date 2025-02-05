@@ -1,0 +1,84 @@
+body {
+    font-family: "Questrial", Monospace;    
+}
+
+h1 {
+    font-family: "Germania One", Monospace;
+    font-size: 50px;
+    color: #292522;
+    margin: 25px;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-bottom: 0px;
+    border-radius: 0px;
+    text-align: center;
+}
+  h3 {
+    font-weight: bold;
+    font-size: 30px;
+  }
+  img {
+    border-radius: 10px;
+    height: 475px;
+    margin: 25px;
+  }
+  .col-centered {
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .logos {
+    height: 50px;
+    border-radius: 0px;
+  }
+  #container-images {
+    background-color: #647ce5;
+    background-color: #292522;
+    border-radius: 0px;
+    display: flex;
+      }
+  #achievements {
+    margin: (50px 0px 100px 25px);
+  }
+  #ronaldo-custom-image {
+    height: 450px;
+    width: auto;
+    border-radius: 10px;
+  }
+  
+  #name1green {
+    color: #008156;
+    color: #04B404;
+  }
+  
+  #name1white {
+    color: #FFF;
+  }
+  
+  #name2 {
+    color: #D20005;
+  }
+  
+  #name3 {
+    color: #FFF;
+  }
+  
+  h6 {
+    margin-bottom: 25px;
+    text-align: center;
+  }
+
+  .row {
+    display: flex;
+  }
+
+  h2 {
+    position: relative;
+    left: 50px;
+  }
+
+  h4 {
+    display: flex;
+            align-items: center;
+            font-size: 1.5em;
+  }
